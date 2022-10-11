@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://gibberlin.github.io/csb-g0ibl/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://gibberlin.github.io/csb-g0ibl/static/js/main.a7f68a9c.chunk.js",
-    "main.js.map": "https://gibberlin.github.io/csb-g0ibl/static/js/main.a7f68a9c.chunk.js.map",
+    "main.js": "https://gibberlin.github.io/csb-g0ibl/static/js/main.3d45aacf.chunk.js",
+    "main.js.map": "https://gibberlin.github.io/csb-g0ibl/static/js/main.3d45aacf.chunk.js.map",
     "runtime-main.js": "https://gibberlin.github.io/csb-g0ibl/static/js/runtime-main.939033ab.js",
     "runtime-main.js.map": "https://gibberlin.github.io/csb-g0ibl/static/js/runtime-main.939033ab.js.map",
     "static/js/2.ffbb3685.chunk.js": "https://gibberlin.github.io/csb-g0ibl/static/js/2.ffbb3685.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.939033ab.js",
     "static/js/2.ffbb3685.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.a7f68a9c.chunk.js"
+    "static/js/main.3d45aacf.chunk.js"
   ]
 }
